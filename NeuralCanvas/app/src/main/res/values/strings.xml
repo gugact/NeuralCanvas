@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NeuralCanvas</string>
+    <string name="recognize_menu_text">Recognise</string>
+    <string name="train">Train Network</string>
+    <string name="our_team_of_dev_cats_are_training_this_network">Our dev-cats are training this network, please wait</string>
+    <string name="invalid_digit">The digit is invalid</string>
+    <string name="train_before">Please train the network before</string>
+    <string name="error_dialog">Error:</string>
+    <string name="hundred_percent">100%</string>
+</resources>
