@@ -2,7 +2,7 @@
 > Android project for digit recognition using multilayer perceptron with backpropagation
 
 
-A simples digit recognition app using neural network, using [this project](http://www.android-examples.com/android-simple-draw-canvas-finger-example-tutorial/) as reference.
+A simple digit recognition app using neural network, adapted from [this project](http://www.android-examples.com/android-simple-draw-canvas-finger-example-tutorial/).
 
 ![](screenshot.png)
 
