@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NeuralCanvas.iml" filepath="$PROJECT_DIR$/NeuralCanvas.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Gustavo\Desktop\Android Projects\gittest\NeuralCanvas\NeuralCanvas\NeuralCanvas.iml" filepath="C:\Users\Gustavo\Desktop\Android Projects\gittest\NeuralCanvas\NeuralCanvas\NeuralCanvas.iml" />
+      <module fileurl="file://C:\Users\Gustavo\Desktop\Android Projects\gittest\NeuralCanvas\NeuralCanvas\app\app.iml" filepath="C:\Users\Gustavo\Desktop\Android Projects\gittest\NeuralCanvas\NeuralCanvas\app\app.iml" />
     </modules>
   </component>
 </project>

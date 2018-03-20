@@ -47,6 +47,7 @@ public class CanvasMainActivity extends AppCompatActivity implements ShakeDetect
     private boolean trained = false;
     private RedeNeural digitNeuralNetwork;
     private Handler updateBarHandler;
+    
 
 
     @Override
